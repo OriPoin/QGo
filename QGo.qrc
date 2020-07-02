@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>10movesback.png</file>
+        <file>10movesforward.png</file>
+        <file>black.png</file>
+        <file>checkerboard.png</file>
+        <file>exit.png</file>
+        <file>first.png</file>
+        <file>last.png</file>
+        <file>logo.png</file>
+        <file>newfile.png</file>
+        <file>next.png</file>
+        <file>previous.png</file>
+        <file>save.png</file>
+        <file>white.png</file>
+    </qresource>
+</RCC>
